@@ -24,7 +24,7 @@ This project allows the user to create not just a pacMan, but pacMen! As the pac
 4. The button labled "play game" then initaites the pacMen to start moving on the screen. 
 
 ## Suggestions for Improvements
-Currently, this project uses images of pacman to produce the visuals for the game. A future improvment could be to use CSS to make pacMen and then either randomize or allow the user to choose different colors for the pacMen in the game. 
+- Currently, this project uses images of pacman to produce the visuals for the game. A future improvment could be to use CSS to make pacMen and then either randomize or allow the user to choose different colors for the pacMen in the game. 
 
 ## Licensing Information
 Starter code used as a project for MITxPro's Full Stack Development Course. 
