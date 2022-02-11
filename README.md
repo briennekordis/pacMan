@@ -6,7 +6,7 @@ pacMen
 - [Languages & Technologies](https://github.com/briennekordis/pacMen/blob/main/README.md#languages--technologies)
 - [Setup & Use](https://github.com/briennekordis/pacMen/blob/main/README.md#setup--use)
 - [Suggestions for Improvement](https://github.com/briennekordis/pacMen/blob/main/README.md#suggestions-for-improvement)
-- [Licensing Information](https://github.com/briennekordis/pacMen/blob/main/README.md#licensing-information)
+- [Licensing Information](https://github.com/briennekordis/pacMan/blob/main/README.md#licensing-information)
 
 
 ## Decription & General Info
