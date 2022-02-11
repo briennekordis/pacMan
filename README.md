@@ -2,10 +2,10 @@
 pacMen
 
 ## Table of Contents
-- [Description & General Info](https://github.com/briennekordis/pacMen/blob/main/README.md#description--general-info)
-- [Languages & Technologies](https://github.com/briennekordis/pacMen/blob/main/README.md#languages--technologies)
-- [Setup & Use](https://github.com/briennekordis/pacMen/blob/main/README.md#setup--use)
-- [Suggestions for Improvement](https://github.com/briennekordis/pacMen/blob/main/README.md#suggestions-for-improvement)
+- [Description & General Info](https://github.com/briennekordis/pacMan#decription--general-info)
+- [Languages & Technologies](https://github.com/briennekordis/pacMan#languages--technologies)
+- [Setup & Use](https://github.com/briennekordis/pacMan#setup--use)
+- [Suggestions for Improvement](https://github.com/briennekordis/pacMan/blob/main/README.md#suggestions-for-improvements)
 - [Licensing Information](https://github.com/briennekordis/pacMan/blob/main/README.md#licensing-information)
 
 
