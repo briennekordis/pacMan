@@ -1,4 +1,4 @@
-# Project Name
+## Project Name
 pacMen
 
 ## Table of Contents
